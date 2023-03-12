@@ -1,0 +1,16 @@
+{
+  "name": "deps-manager-dependabot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": "./build/index.js",
+  "engines": {
+    "node": "18"
+  },
+  "scripts": {},
+  "dependencies": {
+    "express-openapi-validator": "^5.0.1",
+    "got": "^12.5.3",
+    "react-scripts": "^5.0.1"
+  }
+}
